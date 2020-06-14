@@ -7,7 +7,7 @@
 			<div class='jumbotron text-center'>
 				<h1>Jobs World</h1>
 				
-						echo '<p>Hire the best talent from around the world</p>';
+						<p>Hire the best talent from around the world</p>
 					
 				
 			</div>
@@ -160,8 +160,141 @@
 						</nav>
 					</div>
 				</div>
+				<br>
+				<br>
+				<br>
+				<div class='col-md-3'><!--SECONDARY NAV MENU - COULD ANOTHER TAG BE USED INSTEAD OF DIV HERE? -->
+				<p class='lead'><strong>Top Jobs for you</strong></p>
+				
+			    </div>
+			    <br>
+			    <br>
+
+			    <div class='row'>
+				 <div class='col-sm-4 col-lg-4 col-md-4'>
+						<div class='thumbnail'>
+							<img src="https://res.cloudinary.com/torre-technologies-co/image/upload/v1592087142/origin/opportunities/epty_htvrz9.jpg" alt=''>
+							<div class='caption'>
+								<h4 class='pull-right'>Remote</h4>
+								<h4>VP of Engineering</h4>
+								<p>Organisation : EPI</p>
+								<p>Compensation : To be defined</p>
+							</div>
+							<div class='ratings'>
+								<p class='pull-right'><a href='inc/jobdata.php?jobID=0wxVO7r2'>Apply Now</a></p>
+								<p>
+									<span class='glyphicon glyphicon-send'></span>
+									<a href = #>Share</a>
+								</p>
+							</div>
+						</div>
+					</div>
+
+					<div class='col-sm-4 col-lg-4 col-md-4'>
+						<div class='thumbnail'>
+							<img src="https://res.cloudinary.com/torre-technologies-co/image/upload/v1592075526/origin/opportunities/Dreamitjobs_vwkhu0.jpg" alt=''>
+							<div class='caption'>
+								<h4 class='pull-right'>Full-time</h4>
+								<h4>Recruite/Sourcer</h4>
+								<p>Organisation : DreamITJobs</p>
+								<p>Compensation : To be defined</p>
+							</div>
+							<div class='ratings'>
+								<p class='pull-right'><a href='inc/jobdata.php?jobID=2W1yODWq'>Apply Now</a></p>
+								<p>
+									<span class='glyphicon glyphicon-send'></span>
+									<a href = #>Share</a>
+								</p>
+							</div>
+						</div>
+					</div>
+
+					<div class='col-sm-4 col-lg-4 col-md-4'>
+						<div class='thumbnail'>
+
+
+							<img src="https://res.cloudinary.com/torre-technologies-co/image/upload/v1592076620/origin/opportunities/CLARI%C3%81_HR_ebqvlv.jpg" alt=''>
+							<div class='caption'>
+								<h4 class='pull-right'>Remote</h4>
+								<h4>React Native Developer</h4>
+								<p>Organisation : Claria HR</p>
+								<p>Compensation : To be defined</p>
+							</div>
+							<div class='ratings'>
+								<p class='pull-right'><a href='inc/jobdata.php?name=2W1yjkWq'>Apply Now</a></p>
+								<p>
+									<span class='glyphicon glyphicon-send'></span>
+									<a href = #>Share</a>
+								</p>
+							</div>
+						</div>
+					</div>
+
+					<!--<div class='col-sm-4 col-lg-4 col-md-4'>
+						<div class='thumbnail'>
+							<img src="https://starrgate.s3.amazonaws.com:443/users/131a8c1aa78105149b539af508da745360345cc9/profile_nj3NWoE.jpg" alt=''>
+							<div class='caption'>
+								<h4 class='pull-right'>Remote</h4>
+								<h4>VP of Engineering</h4>
+								<p>Organisation : EPI</p>
+								<p>Compensation : To be defined</p>
+							</div>
+							<div class='ratings'>
+								<p class='pull-right'><a href='inc/jobdata.php?name=johnnam93'>Apply Now</a></p>
+								<p>
+									<span class='glyphicon glyphicon-send'></span>
+									<a href = #>Share</a>
+								</p>
+							</div>
+						</div>
+					</div>
+
+					<div class='col-sm-4 col-lg-4 col-md-4'>
+						<div class='thumbnail'>
+							<img src="https://starrgate.s3.amazonaws.com:443/users/58d23b813023eff954c24f015e96c8612d2b4334/profile_ootrR4d.jpg" alt=''>
+							<div class='caption'>
+								<h4 class='pull-right'>Remote</h4>
+								<h4>VP of Engineering</h4>
+								<p>Organisation : EPI</p>
+								<p>Compensation : To be defined</p>
+							</div>
+							<div class='ratings'>
+								<p class='pull-right'><a href='inc/jobdata.php?name=johnnam93'>Apply Now</a></p>
+								<p>
+									<span class='glyphicon glyphicon-send'></span>
+									<a href = #>Share</a>
+								</p>
+							</div>
+						</div>
+					</div>-->
+
+				
+					<div class='text-center'>
+						<nav aria-label='Page navigation'>
+							<ul class='pagination'>
+								<li>
+									<a href='#' aria-label='Previous'>
+										<span aria-hidden='true'>&laquo;</span>
+									</a>
+								</li>
+								<li><a href='#'>1</a></li>
+								<li><a href='#'>2</a></li>
+								<li><a href='#'>3</a></li>
+								<li><a href='#'>4</a></li>
+								<li><a href='#'>5</a></li>
+								<li>
+									<a href='#' aria-label='Next'>
+										<span aria-hidden='true'>&raquo;</span>
+									</a>
+								</li>
+							</ul>
+						</nav>
+					</div>
+				</div>
 			</div>
-		</div>	
+
+
+			
 	</main>
 	<!--FOOTER-->
 	<?php
