@@ -6,14 +6,10 @@
 		<div class='container-fluid'>
 			<div class='jumbotron text-center'>
 				<h1>Jobs World</h1>
-				<?php
-					if(isset($_SESSION['username'])){
-						echo '<p>Welcome back, '.$_SESSION['username'].'!</p>';
-					}
-					else{
+				
 						echo '<p>Hire the best talent from around the world</p>';
-					}
-				?>
+					
+				
 			</div>
 		</div>
 	</header>
