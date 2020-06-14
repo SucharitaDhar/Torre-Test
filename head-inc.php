@@ -44,10 +44,10 @@
 							echo "<li><a href='signin.php'><span class='glyphicon glyphicon-user'></span>Sign In</a></li>";
 						}
 					?>
-					<li><a href='#'><span class='glyphicon glyphicon-shopping-cart'></span>Alerts</a></li>
+					<li><a href='#'><span class='glyphicon glyphicon-envelope'></span>Alerts</a></li>
 					<li>
 						<form class='navbar-form' action='products.php' method='POST'>
-							<input type='text' class='form-control' placeholder='Search for a Product' name='searchterm'>
+							<input type='text' class='form-control' placeholder='Search by skill' name='searchterm'>
 							<button type='submit' class='btn btn-primary'><span class='glyphicon glyphicon-search'></span></button>
 						</form>
 					</li>
