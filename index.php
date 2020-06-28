@@ -17,9 +17,12 @@
 	<main class='container'>
 		<div class='row'>
 			<div class='col-md-3'><!--SECONDARY NAV MENU - COULD ANOTHER TAG BE USED INSTEAD OF DIV HERE? -->
-				<p class='lead'><strong>Top Freelancers for you</strong></p>
+				<h2>Top Freelancers for you</h2>
 				
 			</div>
+			<br>
+			<br>
+			<br>
 			<br>
 			<br>
 
@@ -30,7 +33,7 @@
 							<img src="https://starrgate.s3.amazonaws.com:443/users/e23281ba605e57e3dedb1d547294c6fec2efd2b0/profile_cdWKzNe.jpg" alt=''>
 							<div class='caption'>
 								<h4 class='pull-right'>$25+/hourly</h4>
-								<h4><a href='inc/employeedata.php?name=johnnam93'>John Nam</a>
+								<h4><a href='employeedata.php?name=johnnam93'>John Nam</a>
 								</h4>
 								<p>Former Business Franchise Partner</p>
 							</div>
@@ -52,7 +55,7 @@
 							<img src="https://starrgate.s3.amazonaws.com:443/users/935e76f4ccbb149be3867a49539b12a799093c32/profile_g0gSnhq.jpg" alt=''>
 							<div class='caption'>
 								<h4 class='pull-right'>$800+/monthly</h4>
-								<h4><a href='inc/employeedata.php?name=henrybaguilar'>Henry Belmonte</a>
+								<h4><a href='employeedata.php?name=henrybaguilar'>Henry Belmonte</a>
 								</h4>
 								<p>Front End Developer, SEO/SEM Analyst</p>
 							</div>
@@ -76,7 +79,7 @@
 							<img src="https://starrgate.s3.amazonaws.com:443/users/4c88143419c7212f74a29d9efb3d068aa7a95905/profile_iRN2kD2.jpg" alt=''>
 							<div class='caption'>
 								<h4 class='pull-right'>$70+/hourly</h4>
-								<h4><a href='inc/employeedata.php?name=nicolazdavidperezmesa'>Nicolaz David Perez Mesa</a>
+								<h4><a href='employeedata.php?name=nicolazdavidperezmesa'>Nicolaz David Perez Mesa</a>
 								</h4>
 								<p>Software Engineer and Education Lead</p>
 							</div>
@@ -98,7 +101,7 @@
 							<img src="https://starrgate.s3.amazonaws.com:443/users/131a8c1aa78105149b539af508da745360345cc9/profile_nj3NWoE.jpg" alt=''>
 							<div class='caption'>
 								<h4 class='pull-right'>$60+/hourly</h4>
-								<h4><a href='inc/employeedata.php?name=joranboc'>Jorge Andres</a>
+								<h4><a href='employeedata.php?name=joranboc'>Jorge Andres</a>
 								</h4>
 								<p>Systems Engineer</p>
 							</div>
@@ -120,7 +123,7 @@
 							<img src="https://starrgate.s3.amazonaws.com:443/users/58d23b813023eff954c24f015e96c8612d2b4334/profile_ootrR4d.jpg" alt=''>
 							<div class='caption'>
 								<h4 class='pull-right'>$4k+/monthly</h4>
-								<h4><a href='inc/employeedata.php?name=davidandresjara'>David Jara</a>
+								<h4><a href='employeedata.php?name=davidandresjara'>David Jara</a>
 								</h4>
 								<p>Software Developer</p>
 							</div>
@@ -137,38 +140,21 @@
 						</div>
 					</div>
 
-				
-					<div class='text-center'>
-						<nav aria-label='Page navigation'>
-							<ul class='pagination'>
-								<li>
-									<a href='#' aria-label='Previous'>
-										<span aria-hidden='true'>&laquo;</span>
-									</a>
-								</li>
-								<li><a href='#'>1</a></li>
-								<li><a href='#'>2</a></li>
-								<li><a href='#'>3</a></li>
-								<li><a href='#'>4</a></li>
-								<li><a href='#'>5</a></li>
-								<li>
-									<a href='#' aria-label='Next'>
-										<span aria-hidden='true'>&raquo;</span>
-									</a>
-								</li>
-							</ul>
-						</nav>
-					</div>
+
+					
 				</div>
 				<br>
 				<br>
 				<br>
 				<div class='col-md-3'><!--SECONDARY NAV MENU - COULD ANOTHER TAG BE USED INSTEAD OF DIV HERE? -->
-				<p class='lead'><strong>Top Jobs for you</strong></p>
+				<h2>Top Jobs for you<h2>
 				
 			    </div>
 			    <br>
 			    <br>
+			    <br>
+			    <br>
+			   
 
 			    <div class='row'>
 				 <div class='col-sm-4 col-lg-4 col-md-4'>
@@ -181,7 +167,7 @@
 								<p>Compensation : To be defined</p>
 							</div>
 							<div class='ratings'>
-								<p class='pull-right'><a href='inc/jobdata.php?jobID=0wxVO7r2'>Apply Now</a></p>
+								<p class='pull-right'><a href='jobdata.php?jobID=0wxVO7r2'>Apply Now</a></p>
 								<p>
 									<span class='glyphicon glyphicon-send'></span>
 									<a href = #>Share</a>
@@ -200,7 +186,7 @@
 								<p>Compensation : To be defined</p>
 							</div>
 							<div class='ratings'>
-								<p class='pull-right'><a href='inc/jobdata.php?jobID=2W1yODWq'>Apply Now</a></p>
+								<p class='pull-right'><a href='jobdata.php?jobID=2W1yODWq'>Apply Now</a></p>
 								<p>
 									<span class='glyphicon glyphicon-send'></span>
 									<a href = #>Share</a>
@@ -221,7 +207,7 @@
 								<p>Compensation : To be defined</p>
 							</div>
 							<div class='ratings'>
-								<p class='pull-right'><a href='inc/jobdata.php?name=2W1yjkWq'>Apply Now</a></p>
+								<p class='pull-right'><a href='jobdata.php?jobID=2W1yjkWq'>Apply Now</a></p>
 								<p>
 									<span class='glyphicon glyphicon-send'></span>
 									<a href = #>Share</a>
@@ -296,6 +282,8 @@
 
 			
 	</main>
+
+	
 	<!--FOOTER-->
 	<?php
 		include 'inc/foot.inc.php';

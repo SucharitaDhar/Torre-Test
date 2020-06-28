@@ -17,7 +17,8 @@
 	<link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css'>
 	
 	<!--Custom CSS-->
-	<link rel='stylesheet' href='css/style.css'>
+	<link rel='stylesheet' href='../css/style.css'>
+	
 </head>
 <body>
 	<nav class='navbar navbar-inverse navbar-fixed-top'>
@@ -28,11 +29,11 @@
 					<span class='icon-bar'></span>
 					<span class='icon-bar'></span>
 				</button>
-				<a class='navbar-brand' href='index.php'>Jobs World</a>
+				<a class='navbar-brand' href='../index.php'>Jobs World</a>
 			</header>
 			<div class='collapse navbar-collapse' id='myNavbar'>
 				<ul class='nav navbar-nav'>
-					<li><a href='products.php'>Jobs</a></li>
+					<li><a href='jobs.php'>Jobs</a></li>
 					<li><a href='#'>Your Bio</a></li>
 				</ul>
 				<ul class='nav navbar-nav navbar-right'>
@@ -46,8 +47,8 @@
 					?>
 					<li><a href='#'><span class='glyphicon glyphicon-envelope'></span>Alerts</a></li>
 					<li>
-						<form class='navbar-form' action='products.php' method='POST'>
-							<input type='text' class='form-control' placeholder='Search by skill' name='searchterm'>
+						<form class='navbar-form' action='search.php' method='POST'>
+							<!--<input type='text' class='form-control' placeholder='Search by skill' name='searchterm'>-->
 							<button type='submit' class='btn btn-primary'><span class='glyphicon glyphicon-search'></span></button>
 						</form>
 					</li>

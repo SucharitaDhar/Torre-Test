@@ -1,0 +1,260 @@
+Array
+(
+    [attachments] => Array
+        (
+            [0] => Array
+                (
+                    [resource] => cover
+                    [address] => https://res.cloudinary.com/torre-technologies-co/image/upload/v1592087142/origin/opportunities/epty_htvrz9.jpg
+                    [path] => v1592087142/origin/opportunities/epty_htvrz9.jpg
+                    [caption] => 
+                )
+
+        )
+
+    [boardVersion] => 1
+    [prefilledStatus] => Array
+        (
+            [status] => ignored
+        )
+
+    [locale] => en
+    [objective] => VP-of-Engineering
+    [review] => approved
+    [draft] => 
+    [members] => Array
+        (
+            [0] => Array
+                (
+                    [id] => ZW2qEV2r
+                    [person] => Array
+                        (
+                            [id] => VroGRGmr
+                            [username] => f61632f2-6e79-4bd6-9049-954f5ad7e62c
+                            [name] => Arli Charles Mujkic
+                            [hasEmail] => 
+                            [professionalHeadline] => CEO
+                            [picture] => file: https://zapier.com/engine/hydrate/5827795/.eJxVjs1ugzAQhF8l2jPC4T_2Leq5fQXk2At2MIbaS6so4t1rJC49jWY0-mbeoAyqqZ_wBaK5lV3HmwzU4gk99fRaEQR8QQbWR5JeYW81iO7aFLwt6wwGi073Xs5HT-NPP1iHqT79yjBGEG84GWe-BZeMIVqjYEy7XNpA8uEwV8vMckkklZnTdmQPyTlvFaqqqdsWeVHKW3XVXdFoVBolq4ohqbqxe3D2w8jgMH5uz8mq_LnimNYCfm8Y6bgxI5klXYcRCfbs8PLIz-sH4nIyLv8hDv1IBkRdct7t-_4H_hpklg:1jlXrg:Kf9m2SvslS8iySre3etMwNU2bY0/
+filename: Arli Charles Mujkic.jpeg
+id: attPDP6nxzPj9vLCd
+size: 42997
+thumbnails: {'small': {'url': 'https://dl.airtable.com/.attachmentThumbnails/001589d2d8cb876ec2a393f41c9f3a5f/267f096e', 'width': 36, 'height': 36}, 'large': {'url': 'https://dl.airtable.com/.attachmentThumbnails/e322fcea1298b64e54e91b532f218cb9/7e31fda2', 'width': 500, 'height': 500}, 'full': {'url': 'https://dl.airtable.com/.attachmentThumbnails/d56028b9f6c2830591feef693084ed62/37ffbbef', 'width': 3000, 'height': 3000}}
+type: image/jpeg
+url: https://dl.airtable.com/.attachments/ba9996cec35466e912a830d715decdea/31fcdec8/ArliCharlesMujki
+                            [hasBio] => 1
+                            [bioCompletion] => 0
+                            [weight] => 0
+                            [verified] => 
+                        )
+
+                    [manager] => 
+                    [poster] => 
+                    [member] => 1
+                    [status] => pending
+                    [visible] => 1
+                    [screeningQuestionsTipClosed] => 
+                )
+
+            [1] => Array
+                (
+                    [id] => NwBvbqpw
+                    [person] => Array
+                        (
+                            [id] => xWpY70wK
+                            [username] => brallanmendozadelgado
+                            [name] => Brallan Mendoza
+                            [hasEmail] => 
+                            [professionalHeadline] => Independent Recruiter Advisor
+                            [picture] => https://starrgate.s3.amazonaws.com:443/users/0f55d09bfee0a04fca2c004d206b226b7b089b7a/profile_zxhMVOh.jpg
+                            [pictureThumbnail] => https://starrgate.s3.amazonaws.com:443/CACHE/images/users/0f55d09bfee0a04fca2c004d206b226b7b089b7a/profile_zxhMVOh/aedebe55d6382d2d66f1622b45fac3c5.jpg
+                            [hasBio] => 1
+                            [bioCompletion] => 0.9231
+                            [weight] => 850
+                            [verified] => 1
+                            [subjectId] => 46223
+                        )
+
+                    [manager] => 1
+                    [poster] => 1
+                    [member] => 1
+                    [status] => accepted
+                    [visible] => 1
+                    [screeningQuestionsTipClosed] => 
+                )
+
+        )
+
+    [details] => Array
+        (
+            [0] => Array
+                (
+                    [code] => reason
+                    [content] => The VP of Engineering (VPE) would form part of a team of VPE’s and should have at least 10 years experience as a senior developer, 5+ years as a tech lead and at least 2+ years experience in a similar role. A VPE is responsible for realising the vision by developing and managing the technical teams, getting products ready for delivery on time, contributes and optimises internal processes and procedures that are documented in the company’s Playbook.
+
+The VPE manages development and cross-functional teams, including but not limited to: UI / UX designers, QA engineers and testers, frontend and backend developers, devops engineers and business analysts. It’s his job to create an efficient, effective production line and keep it running smoothly. From time to time he will be very hands-on, but their primary role will be managerial, process driven and focused on optimising delivery as well as help scaling operations.
+
+As a fast growing venture builder company we offer the experience to work on a variety of different products, technologies and challenges that must be met and managed. This means having an appetite for continuous learning and improving your skills and knowledge. It is important that you have an analytical mindset and can perform well under pressure as will be the case from time to time.
+
+Job Title: VP of Engineering
+Reports to: CTO
+Member of: Technical Board, Middle Management
+                )
+
+            [1] => Array
+                (
+                    [code] => responsibilities
+                    [content] => • Manage development
+• Manage cross functional teams and communication
+• Contribute and optimise internal processes and procedures
+• Ensure product delivery is on time and in line with the product vision
+• Nurture (mentor) and develop technical employees
+• Hands on development when needed
+• Assist HR in the recruitment process
+• Contribute to and optimise the company’s technical strategy
+• Resource Planning
+• Keeping abreast of technological developments and risks
+                )
+
+            [2] => Array
+                (
+                    [code] => requirements
+                    [content] => • Object oriented programming
+
+Attributes:
+• Analytical mindset
+• Problem solver
+• Self-driven
+• Team player
+• Good communicator
+• Product oriented mindset
+• Good business acumen
+• Be an opportunistic intrapreneur
+• Experience working with cross-functional teams and understand their workflow
+                )
+
+            [3] => Array
+                (
+                    [code] => organizations
+                    [content] => • EPTI is a commercially driven global technology company with experience ranging across embedded systems to big transportation solutions, from payment solutions to finance-, CRM, ad-tech platforms and fully tailored solutions. Our company delivers complete projects from idea to design, planning to implementation and from testing to delivery. We offer a range of services and partnerships. With our global team consisting of designers, business analysts, developers, online marketing specialist, testers and project managers we are ready to build, innovate and transform the business!
+                )
+
+            [4] => Array
+                (
+                    [code] => team-culture
+                    [content] => • We empower innovation. Using distributed teams to build, invest in and transform ideas globally. A venture builder crafting the companies of the future.
+                )
+
+        )
+
+    [id] => 0wxVO7r2
+    [place] => Array
+        (
+            [remote] => 1
+            [anywhere] => 1
+            [timezone] => 1
+            [location] => Array
+                (
+                )
+
+        )
+
+    [deadline] => 2020-07-14T04:30:00Z
+    [slug] => epti-vp-of-engineering
+    [owner] => Array
+        (
+            [id] => xWpY70wK
+            [username] => brallanmendozadelgado
+            [name] => Brallan Mendoza
+            [hasEmail] => 
+            [professionalHeadline] => Independent Recruiter Advisor
+            [picture] => https://starrgate.s3.amazonaws.com:443/users/0f55d09bfee0a04fca2c004d206b226b7b089b7a/profile_zxhMVOh.jpg
+            [pictureThumbnail] => https://starrgate.s3.amazonaws.com:443/CACHE/images/users/0f55d09bfee0a04fca2c004d206b226b7b089b7a/profile_zxhMVOh/aedebe55d6382d2d66f1622b45fac3c5.jpg
+            [hasBio] => 1
+            [bioCompletion] => 0.9231
+            [weight] => 850
+            [verified] => 1
+            [subjectId] => 46223
+        )
+
+    [completion] => 0.625
+    [agreement] => Array
+        (
+            [type] => employment-contract
+        )
+
+    [languages] => Array
+        (
+            [0] => Array
+                (
+                    [language] => Array
+                        (
+                            [code] => en
+                            [name] => English
+                        )
+
+                    [fluency] => fully-fluent
+                )
+
+        )
+
+    [created] => 2020-06-13T22:29:30Z
+    [opportunity] => employee
+    [active] => 1
+    [commitment] => Array
+        (
+            [code] => full-time
+            [hours] => 0
+        )
+
+    [stableOn] => 2020-06-13T23:29:30Z
+    [timezones] => Array
+        (
+            [0] => GMT-12:00
+            [1] => GMT+14:00
+        )
+
+    [strengths] => Array
+        (
+            [0] => Array
+                (
+                    [id] => Rrnxn64w
+                    [code] => 521
+                    [name] => Engineering
+                    [experience] => 1-plus-year
+                )
+
+            [1] => Array
+                (
+                    [id] => OwGaOK3r
+                    [code] => 704
+                    [name] => Software Development
+                    [experience] => 1-plus-year
+                )
+
+        )
+
+    [organizations] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 311561
+                    [name] => EPTI
+                    [size] => 60000
+                    [picture] => https://torre-media.s3-us-west-2.amazonaws.com/EPTI.png
+                )
+
+        )
+
+    [compensation] => Array
+        (
+            [code] => to-be-defined
+            [currency] => USD$
+            [minAmount] => 0
+            [maxAmount] => 0
+            [periodicity] => hourly
+            [visible] => 1
+        )
+
+    [openGraph] => https://hcti.io/v1/image/c3122101-70c8-4637-ba2b-b0b7571b53f2
+    [status] => open
+)
