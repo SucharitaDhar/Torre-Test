@@ -2,13 +2,8 @@
 	include 'inc/head-inc.php';
 ?>
 
-</style><div id="page-container">
-<style>
-	#content-wrap {
-  			padding-bottom: 2.5rem;    /* Footer height */
-		}
-</style>
-<div id="content-wrap">
+
+<div margin-top = 100px>
 <form action="people.php">
   <style>
 		#Search1

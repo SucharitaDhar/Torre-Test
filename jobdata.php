@@ -17,7 +17,7 @@ $job_data = json_decode($json_data, true);
 ?>
 
 
-</body>
+
 </div>
 <h1><?php echo $job_data['objective'];?></h1>
 <h3><?php echo $job_data['details']['0']['code'];?></h3>
@@ -43,5 +43,4 @@ $job_data = json_decode($json_data, true);
     include 'inc/foot.inc.php';
   ?> 
 </footer>
-</body>
 
