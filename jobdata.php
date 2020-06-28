@@ -19,7 +19,8 @@ $job_data = json_decode($json_data, true);
 
 </body>
 </div>
-<h1><?php echo $job_data['objective'];?></h1>
+<style>#heading { margin-top : 30px;}</style>
+<h1 id="heading"><?php echo $job_data['objective'];?></h1>
 <h3><?php echo $job_data['details']['0']['code'];?></h3>
 <p><?php echo $job_data['details']['0']['content'];?></p>
 <h3><?php echo $job_data['details']['1']['code'];?></h3>
